@@ -4,7 +4,7 @@ I'm a full stack Software Engineer with experience in JavaScript, TypeScript, Po
 
 🚀 Telegraph Notification Service
 
-Most recently, I built [Telegraph](https://telegraph-notify.github.io/), a self-hosted, serverless Notification as a Service designed to simplify the complexities of implementing and managing real-time notifications for web applications.
+Most recently, I built [Telegraph](https://telegraph-notify.github.io/), a drop-in self-hosted Notification as a Service designed to simplify the complexities of implementing and managing real-time notifications for web applications.
 
 ### Programming Stack
 
