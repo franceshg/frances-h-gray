@@ -17,7 +17,7 @@ Most recently, I built [Telegraph](https://telegraph-notify.github.io/), a self-
 
 ### 📧 How to reach me
 
-[LinkedIn] (https://www.linkedin.com/in/frances-h-gray/) or Email: frances.h.gray@gmail.com
+[LinkedIn](https://www.linkedin.com/in/frances-h-gray/) or Email: frances.h.gray@gmail.com
 
 ### ⚡ Fun fact
 
